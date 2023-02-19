@@ -13,7 +13,7 @@ struct NotificationCenterReduxApp: App {
         state: NotificationCenterState(),
         reducer: notificationCenterReducer,
         middlewares: [
-            // TODO: These will come from Dependency container
+            // NOTE: Dependences will come from Dependency container
             getNotificationsUseCase(repo: NotificationRepository()),
             markNotificationsAsReadUseCase(repo: NotificationRepository()),
             trackingMiddleware(tracker: Tracker())
