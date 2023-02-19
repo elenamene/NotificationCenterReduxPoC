@@ -23,3 +23,10 @@ private extension Notification {
         readTime == nil ? .blue.opacity(0.1) : .white
     }
 }
+
+struct NotificationList_Previews: PreviewProvider {
+    static var previews: some View {
+        NotificationList()
+            .environmentObject(NotificationStore.previewEnvironment)
+    }
+}

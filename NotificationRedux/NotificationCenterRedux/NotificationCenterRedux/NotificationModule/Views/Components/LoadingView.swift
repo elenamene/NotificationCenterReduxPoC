@@ -8,3 +8,9 @@ struct LoadingView: View {
             .clipShape(RoundedRectangle(cornerRadius: 20))
     }
 }
+
+struct LoadingView_Previews: PreviewProvider {
+    static var previews: some View {
+        LoadingView()
+    }
+}

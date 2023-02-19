@@ -36,9 +36,3 @@ struct NotificationCenterView: View {
         }
     }
 }
-
-//struct NotificationCenterView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        NotificationCenterView()
-//    }
-//}

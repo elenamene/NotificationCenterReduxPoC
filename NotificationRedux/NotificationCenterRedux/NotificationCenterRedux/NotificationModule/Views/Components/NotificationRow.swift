@@ -43,3 +43,9 @@ private extension NotificationRow {
             .bold()
     }
 }
+
+struct NotificationRow_Previews: PreviewProvider {
+    static var previews: some View {
+        NotificationRow(notification: Notification.stubs[0])
+    }
+}
