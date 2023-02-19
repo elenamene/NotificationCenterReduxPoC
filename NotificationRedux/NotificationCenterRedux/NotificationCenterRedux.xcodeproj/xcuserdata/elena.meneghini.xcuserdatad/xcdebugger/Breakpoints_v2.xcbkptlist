@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "40701E13-B021-46B1-9814-BAEAFD5FF7B5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E875A449-575C-4AB2-B19B-4D822F21B8FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "getNotifications()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E875A449-575C-4AB2-B19B-4D822F21B8FB - 90ae522187a329b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NotificationCenterReduxTests.NotificationRepositoryMock.getNotifications() async throws -&gt; Swift.Array&lt;NotificationCenterRedux.Notification&gt;"
+                  moduleName = "NotificationCenterReduxTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena.meneghini/Desktop/NotificationRedux/NotificationCenterRedux/NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E875A449-575C-4AB2-B19B-4D822F21B8FB - 90ae522187a3299a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NotificationCenterReduxTests.NotificationRepositoryMock.getNotifications() async throws -&gt; Swift.Array&lt;NotificationCenterRedux.Notification&gt;"
+                  moduleName = "NotificationCenterReduxTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena.meneghini/Desktop/NotificationRedux/NotificationCenterRedux/NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD8B809A-20DD-4AF0-8A81-DE2E38B54BDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "markAllAsRead()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5DD6D4C-75C9-4004-96D9-0E9CD00A8320"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "markAllAsRead()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5DD6D4C-75C9-4004-96D9-0E9CD00A8320 - 5bd773933e761187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NotificationCenterReduxTests.NotificationRepositoryMock.markAllAsRead() async throws -&gt; ()"
+                  moduleName = "NotificationCenterReduxTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena.meneghini/Desktop/NotificationRedux/NotificationCenterRedux/NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "F5DD6D4C-75C9-4004-96D9-0E9CD00A8320 - 215b31ec216d68a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NotificationCenterReduxTests.NotificationRepositoryMock.markAllAsRead() async throws -&gt; ()"
+                  moduleName = "NotificationCenterReduxTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena.meneghini/Desktop/NotificationRedux/NotificationCenterRedux/NotificationCenterReduxTests/Mocks/NotificationRepositoryMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
