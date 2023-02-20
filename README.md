@@ -1,1 +1,1 @@
-# NotificationCenterReducPoC
+# NotificationCenterReduxPoC
